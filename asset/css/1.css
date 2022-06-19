@@ -37,8 +37,8 @@ header .solw{
 }
 .car{
     position: absolute;
-    left: 89%;
-    top: 11%;
+    right: 7%;
+    top: 12%;
 }
 .car:hover{
     transform: scale(1.1);
@@ -46,8 +46,8 @@ header .solw{
 }
 .man{
     position: absolute;
-    left: 95%;
     top: 10%;
+    right: 2.15%;
 }
 .man:hover{
     transform: scale(1.05);
@@ -58,8 +58,7 @@ header .solw{
 }
 .out{
     position: absolute;
-    margin-right: 0%;
-    right: 270px;
+    right: 12%;
     width: 90px;
     top: 3%;
     border: 0px;
@@ -67,7 +66,6 @@ header .solw{
 .out_input{
     width: 90px;
     border: 0px;
-    margin-left: 28%;
 }
 .out:hover{
     transform: scale(1.1);
@@ -75,13 +73,14 @@ header .solw{
 }
 .man1{
     position: absolute;
-    left: 94.7%;
+    right: 2%;;
     top: 4%;
 }
 
 .log1{
     width: 90px;
 }
+
 .s2ch{
     position: absolute;
     left: 2%;
